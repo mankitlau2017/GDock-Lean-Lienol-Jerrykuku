@@ -28,7 +28,7 @@ on:
     types: [started]
 
 env:
-  REPO_URL: https://github.com/Lienol/openwrt
+  REPO_URL: https://github.com/Lienol/lean-openwrt
   REPO_BRANCH: dev-master
   CONFIG_FILE: lienol.config
   DIY_SH: diy.sh
